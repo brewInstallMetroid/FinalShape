@@ -1,5 +1,7 @@
 import math as m
 
+#TODO: Add/finish coding surface area and 3d shapes area functions AND ADD TYPE HINTING
+
 def circle(radius):
     radius = float(radius)
     if radius <= 0:

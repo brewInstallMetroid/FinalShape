@@ -2,6 +2,7 @@ from PyQt6.QtWidgets import *
 from GuiArea import *
 from FunctionsArea import *
 
+#TODO: Add type hinting, test new FunctionsArea functions, maybe add hiding if time allows
 
 class Logic (QMainWindow, Ui_MainWindow):
     value = 0
